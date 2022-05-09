@@ -5,7 +5,7 @@ Cadeira: Sistemas Operativos
 ### Objetivo da Cadeira
 Estudar a problemática dos sistemas operativos (SO), sua organização e programação, analisar os modelos de computação oferecidos pelos SOs, sua organização, operações primitivas e programação elementar. Algumas destas noções serão consolidadas com pormenores de sistemas, tais como o Windows e o Linux.
 
-### Ler README_Fase1 e README_Fase2 para mais informações sobre o projeto
+### Ler README_Fase1 e README_Fase2 para mais informações sobre o projeto.
 Este projeto tem 2 fases: <br>
 #### 1. Fase 1, branch Fase1; <br>
 #### 2. Fase 2, branch Fase2;

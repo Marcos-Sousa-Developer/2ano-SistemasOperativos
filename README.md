@@ -7,5 +7,5 @@ Estudar a problemática dos sistemas operativos (SO), sua organização e progra
 
 ### Ler README_Fase1 e README_Fase2 para mais informações sobre o projeto.
 Este projeto tem 2 fases: <br>
-#### 1. Fase 1, Branch Fase1; <br>
+#### 1. Fase 1, Branch Fase1 (https://github.com/Marcos-Sousa-Developer/2ano-SistemasOperativos/tree/Fase1) <br>
 #### 2. Fase 2, Branch Fase2;

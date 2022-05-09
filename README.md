@@ -7,5 +7,5 @@ Estudar a problemática dos sistemas operativos (SO), sua organização e progra
 
 # Ler README.pdf para mais informações sobre o projeto
 Este projeto tem 2 fases. <br>
-Fase 1, branch Fase1; <br>
-Fase 2, branch Fase2;
+#### Fase 1, branch Fase1; <br>
+#### Fase 2, branch Fase2;

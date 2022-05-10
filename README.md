@@ -7,4 +7,4 @@ Cadeira: Sistemas Operativos
 Estudar a problemática dos sistemas operativos (SO), sua organização e programação, analisar os modelos de computação oferecidos pelos SOs, sua organização, operações primitivas e programação elementar. 
 
 ## Projetos
-Este projeto tem 2 fases: <br>
+Este projeto tem 2 fases

@@ -8,5 +8,3 @@ Estudar a problemática dos sistemas operativos (SO), sua organização e progra
 
 ## Projetos
 Este projeto tem 2 fases: <br>
-1. Fase1 
-2. Fase2 

@@ -7,5 +7,5 @@ Estudar a problemática dos sistemas operativos (SO), sua organização e progra
 
 ## Projetos
 Este projeto tem 2 fases: <br>
-1. Branch Fase1 (https://github.com/Marcos-Sousa-Developer/2ano-SistemasOperativos/tree/Fase1) <br>
-2. Branch Fase2 (https://github.com/Marcos-Sousa-Developer/2ano-SistemasOperativos/tree/Fase2);
+1. Fase1 
+2. Fase2 

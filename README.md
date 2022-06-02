@@ -1,4 +1,5 @@
-# Projetos de 2ºano, Sistemas Operativos.
+# Projetos de 2ºano
+## Processos/Threads
 Projeto de 2ºano, do curso de Tecnologias de Informação <br>
 
 Cadeira: Sistemas Operativos
